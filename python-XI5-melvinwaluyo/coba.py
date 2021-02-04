@@ -1,1 +1,1 @@
-print ("Belajar Source Control")
+print ("belajar source control")
